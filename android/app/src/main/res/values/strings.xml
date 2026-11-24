@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daily Tide</string>
+    <string name="app_tagline">Little habits. Better days.</string>
+    <string name="studio_name">Violet Dolphin Studio</string>
+    <string name="studio_motto">Smart Tools. Healthier You.</string>
+    <string name="channel_hydration_name">Hydration Reminders</string>
+    <string name="channel_hydration_desc">Gentle, quiet-hours-aware sips of water throughout your day.</string>
+    <string name="channel_reflection_name">Daily Reflection Reminders</string>
+    <string name="channel_reflection_desc">Calm local cues for journaling and self-appreciation.</string>
+    <string name="channel_habits_name">Habit Reminders</string>
+    <string name="channel_habits_desc">Supportive check-ins for your personal daily habits.</string>
+    <string name="channel_self_care_name">Self-Care Check-In Reminders</string>
+    <string name="channel_self_care_desc">Gentle mood awareness and breathing pauses.</string>
+    <string name="channel_weekly_name">Weekly Tide Summaries</string>
+    <string name="channel_weekly_desc">Your calm weekly reflection and progress summary.</string>
+    <string name="channel_daily_use_name">Daily Use Reminders</string>
+    <string name="channel_daily_use_desc">One gentle daily invitation to open Daily Tide and check in with yourself.</string>
+    <string name="channel_feedback_name">Post-Use Feedback</string>
+    <string name="channel_feedback_desc">A single polite check-in after using Daily Tide inviting optional feedback.</string>
+    <string name="action_log_glass">Log +1 Glass</string>
+    <string name="support_developer_title">Buy Me a Coffee · Help This Developer</string>
+    <string name="support_developer_upi">khushalnyk679@okaxis</string>
+</resources>

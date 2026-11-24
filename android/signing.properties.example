@@ -1,0 +1,15 @@
+# Copy this file to android/signing.properties (which is gitignored) or set environment variables.
+# NEVER commit real keystore files, passwords, or production AdMob IDs to version control.
+#
+# Generate a release upload keystore locally using:
+#   keytool -genkeypair -v -keystore release-upload-key.jks -alias daily_tide_upload \
+#     -keyalg RSA -keysize 2048 -validity 10000
+
+DAILY_TIDE_KEYSTORE_PATH=
+DAILY_TIDE_KEYSTORE_PASSWORD=
+DAILY_TIDE_KEY_ALIAS=
+DAILY_TIDE_KEY_PASSWORD=
+
+# Production Google AdMob IDs (REQUIRED for assembleRelease / bundleRelease; test IDs are blocked)
+ADMOB_PROD_APP_ID=
+ADMOB_PROD_REWARDED_AD_UNIT_ID=

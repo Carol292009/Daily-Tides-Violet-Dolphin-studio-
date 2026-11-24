@@ -1,0 +1,6 @@
+{
+  "name": "Daily Tide",
+  "description": "Little habits. Better days. Offline-first personal self-care Android application by Violet Dolphin Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
